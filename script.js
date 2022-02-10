@@ -7,12 +7,12 @@ names[4]="akash";
 names[5]="shiv";
 names[6]="shardul";
 names[7]="suraj";
-names[8]="parth";
+names[8]="shantanu";
 names[9]="omkar";
 
 
 for (var i = 0; i < names.length; i++) {
-	if(names[i].charAt(0)==='J'|| names[i].charAt(0)==='j'){
+	if(names[i].charAt(0)==='s'|| names[i].charAt(0)==='S'){
         console.log("Goodbye "+ names[i])
 	}
 	else{
